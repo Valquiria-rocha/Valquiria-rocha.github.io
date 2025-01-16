@@ -13,6 +13,6 @@
 
     <p>Seus dados foram enviados com sucesso e estão sob análise.</p>
 
-<body>
+</body>body>
 
 <html> 
